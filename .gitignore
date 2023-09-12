@@ -1,0 +1,18 @@
+# IntelliJ
+/.idea/
+/*.iml
+/.project
+/.jpb/
+
+# Eclipse
+.classpath
+.project
+.settings
+.factorypath
+
+# MacOs
+.DS_Store
+
+# App
+*.log
+book

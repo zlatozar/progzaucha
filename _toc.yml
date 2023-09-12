@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+# All files that should be included.
+parts:
+  - caption: Book Content
+    numbered: true
+    chapters:
+      - file: markdown
+      - file: notebooks
+      - file: markdown-notebooks
+#  - caption: Appendix A
+#    chapters:
+#      - file: appendixA.md
