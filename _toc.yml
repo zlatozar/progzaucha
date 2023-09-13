@@ -6,7 +6,7 @@ root: intro
 
 # All files that should be included.
 parts:
-  - caption: Съдържание
+  - caption: Въведение
     numbered: true
     chapters:
       - file: markdown
